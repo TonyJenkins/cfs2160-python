@@ -1,0 +1,734 @@
+[
+    {
+        "contents": "Microsoft Word Document",
+        "file_extension": ".doc"
+    },
+    {
+        "contents": "Microsoft Word Open XML Document",
+        "file_extension": ".docx"
+    },
+    {
+        "contents": "Log File",
+        "file_extension": ".log"
+    },
+    {
+        "contents": "Outlook Mail Message",
+        "file_extension": ".msg"
+    },
+    {
+        "contents": "OpenDocument Text Document",
+        "file_extension": ".odt"
+    },
+    {
+        "contents": "Pages Document",
+        "file_extension": ".pages"
+    },
+    {
+        "contents": "Rich Text Format File",
+        "file_extension": ".rtf"
+    },
+    {
+        "contents": "LaTeX Source Document",
+        "file_extension": ".tex"
+    },
+    {
+        "contents": "Plain Text File",
+        "file_extension": ".txt"
+    },
+    {
+        "contents": "WordPerfect Document",
+        "file_extension": ".wpd"
+    },
+    {
+        "contents": "Microsoft Works Word Processor Document",
+        "file_extension": ".wps"
+    },
+    {
+        "contents": "Comma Separated Values File",
+        "file_extension": ".csv"
+    },
+    {
+        "contents": "Data File",
+        "file_extension": ".dat"
+    },
+    {
+        "contents": "Gerber File",
+        "file_extension": ".gbr"
+    },
+    {
+        "contents": "GEDCOM Genealogy Data File",
+        "file_extension": ".ged"
+    },
+    {
+        "contents": "Keynote Presentation",
+        "file_extension": ".key"
+    },
+    {
+        "contents": "Mac OS X Keychain File",
+        "file_extension": ".keychain"
+    },
+    {
+        "contents": "PowerPoint Slide Show",
+        "file_extension": ".pps"
+    },
+    {
+        "contents": "PowerPoint Presentation",
+        "file_extension": ".ppt"
+    },
+    {
+        "contents": "PowerPoint Open XML Presentation",
+        "file_extension": ".pptx"
+    },
+    {
+        "contents": "Standard Data File",
+        "file_extension": ".sdf"
+    },
+    {
+        "contents": "Consolidated Unix File Archive",
+        "file_extension": ".tar"
+    },
+    {
+        "contents": "TurboTax 2012 Tax Return",
+        "file_extension": ".tax2012"
+    },
+    {
+        "contents": "TurboTax 2014 Tax Return",
+        "file_extension": ".tax2014"
+    },
+    {
+        "contents": "vCard File",
+        "file_extension": ".vcf"
+    },
+    {
+        "contents": "XML File",
+        "file_extension": ".xml"
+    },
+    {
+        "contents": "Audio Interchange File Format",
+        "file_extension": ".aif"
+    },
+    {
+        "contents": "Interchange File Format",
+        "file_extension": ".iff"
+    },
+    {
+        "contents": "Media Playlist File",
+        "file_extension": ".m3u"
+    },
+    {
+        "contents": "MPEG-4 Audio File",
+        "file_extension": ".m4a"
+    },
+    {
+        "contents": "MIDI File",
+        "file_extension": ".mid"
+    },
+    {
+        "contents": "MP3 Audio File",
+        "file_extension": ".mp3"
+    },
+    {
+        "contents": "MPEG-2 Audio File",
+        "file_extension": ".mpa"
+    },
+    {
+        "contents": "Real Audio File",
+        "file_extension": ".ra"
+    },
+    {
+        "contents": "WAVE Audio File",
+        "file_extension": ".wav"
+    },
+    {
+        "contents": "Windows Media Audio File",
+        "file_extension": ".wma"
+    },
+    {
+        "contents": "3GPP2 Multimedia File",
+        "file_extension": ".3g2"
+    },
+    {
+        "contents": "3GPP Multimedia File",
+        "file_extension": ".3gp"
+    },
+    {
+        "contents": "Advanced Systems Format File",
+        "file_extension": ".asf"
+    },
+    {
+        "contents": "Microsoft ASF Redirector File",
+        "file_extension": ".asx"
+    },
+    {
+        "contents": "Audio Video Interleave File",
+        "file_extension": ".avi"
+    },
+    {
+        "contents": "Flash Video File",
+        "file_extension": ".flv"
+    },
+    {
+        "contents": "iTunes Video File",
+        "file_extension": ".m4v"
+    },
+    {
+        "contents": "Apple QuickTime Movie",
+        "file_extension": ".mov"
+    },
+    {
+        "contents": "MPEG-4 Video File",
+        "file_extension": ".mp4"
+    },
+    {
+        "contents": "MPEG Video File",
+        "file_extension": ".mpg"
+    },
+    {
+        "contents": "Real Media File",
+        "file_extension": ".rm"
+    },
+    {
+        "contents": "SubRip Subtitle File",
+        "file_extension": ".srt"
+    },
+    {
+        "contents": "Shockwave Flash Movie",
+        "file_extension": ".swf"
+    },
+    {
+        "contents": "DVD Video Object File",
+        "file_extension": ".vob"
+    },
+    {
+        "contents": "Windows Media Video File",
+        "file_extension": ".wmv"
+    },
+    {
+        "contents": "Rhino 3D Model",
+        "file_extension": ".3dm"
+    },
+    {
+        "contents": "3D Studio Scene",
+        "file_extension": ".3ds"
+    },
+    {
+        "contents": "3ds Max Scene File",
+        "file_extension": ".max"
+    },
+    {
+        "contents": "Wavefront 3D Object File",
+        "file_extension": ".obj"
+    },
+    {
+        "contents": "Bitmap Image File",
+        "file_extension": ".bmp"
+    },
+    {
+        "contents": "DirectDraw Surface",
+        "file_extension": ".dds"
+    },
+    {
+        "contents": "Graphical Interchange Format File",
+        "file_extension": ".gif"
+    },
+    {
+        "contents": "JPEG Image",
+        "file_extension": ".jpg"
+    },
+    {
+        "contents": "Portable Network Graphic",
+        "file_extension": ".png"
+    },
+    {
+        "contents": "Adobe Photoshop Document",
+        "file_extension": ".psd"
+    },
+    {
+        "contents": "PaintShop Pro Image",
+        "file_extension": ".pspimage"
+    },
+    {
+        "contents": "Targa Graphic",
+        "file_extension": ".tga"
+    },
+    {
+        "contents": "Thumbnail Image File",
+        "file_extension": ".thm"
+    },
+    {
+        "contents": "Tagged Image File",
+        "file_extension": ".tif"
+    },
+    {
+        "contents": "Tagged Image File Format",
+        "file_extension": ".tiff"
+    },
+    {
+        "contents": "YUV Encoded Image File",
+        "file_extension": ".yuv"
+    },
+    {
+        "contents": "Adobe Illustrator File",
+        "file_extension": ".ai"
+    },
+    {
+        "contents": "Encapsulated PostScript File",
+        "file_extension": ".eps"
+    },
+    {
+        "contents": "PostScript File",
+        "file_extension": ".ps"
+    },
+    {
+        "contents": "Scalable Vector Graphics File",
+        "file_extension": ".svg"
+    },
+    {
+        "contents": "Adobe InDesign Document",
+        "file_extension": ".indd"
+    },
+    {
+        "contents": "Picture File",
+        "file_extension": ".pct"
+    },
+    {
+        "contents": "Portable Document Format File",
+        "file_extension": ".pdf"
+    },
+    {
+        "contents": "Works Spreadsheet",
+        "file_extension": ".xlr"
+    },
+    {
+        "contents": "Excel Spreadsheet",
+        "file_extension": ".xls"
+    },
+    {
+        "contents": "Microsoft Excel Open XML Spreadsheet",
+        "file_extension": ".xlsx"
+    },
+    {
+        "contents": "Access 2007 Database File",
+        "file_extension": ".accdb"
+    },
+    {
+        "contents": "Database File",
+        "file_extension": ".db"
+    },
+    {
+        "contents": "Database File",
+        "file_extension": ".dbf"
+    },
+    {
+        "contents": "Microsoft Access Database",
+        "file_extension": ".mdb"
+    },
+    {
+        "contents": "Program Database",
+        "file_extension": ".pdb"
+    },
+    {
+        "contents": "Structured Query Language Data File",
+        "file_extension": ".sql"
+    },
+    {
+        "contents": "Android Package File",
+        "file_extension": ".apk"
+    },
+    {
+        "contents": "Mac OS X Application",
+        "file_extension": ".app"
+    },
+    {
+        "contents": "DOS Batch File",
+        "file_extension": ".bat"
+    },
+    {
+        "contents": "Common Gateway Interface Script",
+        "file_extension": ".cgi"
+    },
+    {
+        "contents": "DOS Command File",
+        "file_extension": ".com"
+    },
+    {
+        "contents": "Windows Executable File",
+        "file_extension": ".exe"
+    },
+    {
+        "contents": "Windows Gadget",
+        "file_extension": ".gadget"
+    },
+    {
+        "contents": "Java Archive File",
+        "file_extension": ".jar"
+    },
+    {
+        "contents": "Program Information File",
+        "file_extension": ".pif"
+    },
+    {
+        "contents": "VBScript File",
+        "file_extension": ".vb"
+    },
+    {
+        "contents": "Windows Script File",
+        "file_extension": ".wsf"
+    },
+    {
+        "contents": "Video Game Demo File",
+        "file_extension": ".dem"
+    },
+    {
+        "contents": "Saved Game File",
+        "file_extension": ".gam"
+    },
+    {
+        "contents": "Nintendo (NES) ROM File",
+        "file_extension": ".nes"
+    },
+    {
+        "contents": "N64 Game ROM File",
+        "file_extension": ".rom"
+    },
+    {
+        "contents": "Saved Game",
+        "file_extension": ".sav"
+    },
+    {
+        "contents": "AutoCAD Drawing Database File",
+        "file_extension": ".dwg"
+    },
+    {
+        "contents": "Drawing Exchange Format File",
+        "file_extension": ".dxf"
+    },
+    {
+        "contents": "GPS Exchange File",
+        "file_extension": ".gpx"
+    },
+    {
+        "contents": "Keyhole Markup Language File",
+        "file_extension": ".kml"
+    },
+    {
+        "contents": "Google Earth Placemark File",
+        "file_extension": ".kmz"
+    },
+    {
+        "contents": "Active Server Page",
+        "file_extension": ".asp"
+    },
+    {
+        "contents": "Active Server Page Extended File",
+        "file_extension": ".aspx"
+    },
+    {
+        "contents": "Internet Security Certificate",
+        "file_extension": ".cer"
+    },
+    {
+        "contents": "ColdFusion Markup File",
+        "file_extension": ".cfm"
+    },
+    {
+        "contents": "Certificate Signing Request File",
+        "file_extension": ".csr"
+    },
+    {
+        "contents": "Cascading Style Sheet",
+        "file_extension": ".css"
+    },
+    {
+        "contents": "Hypertext Markup Language File",
+        "file_extension": ".htm"
+    },
+    {
+        "contents": "Hypertext Markup Language File",
+        "file_extension": ".html"
+    },
+    {
+        "contents": "JavaScript File",
+        "file_extension": ".js"
+    },
+    {
+        "contents": "JSON File",
+        "file_extension": ".json"
+    },
+    {
+        "contents": "Java Server Page",
+        "file_extension": ".jsp"
+    },
+    {
+        "contents": "PHP Source Code File",
+        "file_extension": ".php"
+    },
+    {
+        "contents": "Rich Site Summary",
+        "file_extension": ".rss"
+    },
+    {
+        "contents": "Extensible Hypertext Markup Language File",
+        "file_extension": ".xhtml"
+    },
+    {
+        "contents": "Chrome Extension",
+        "file_extension": ".crx"
+    },
+    {
+        "contents": "Mac OS X Plug-in",
+        "file_extension": ".plugin"
+    },
+    {
+        "contents": "Windows Font File",
+        "file_extension": ".fnt"
+    },
+    {
+        "contents": "Generic Font File",
+        "file_extension": ".fon"
+    },
+    {
+        "contents": "OpenType Font",
+        "file_extension": ".otf"
+    },
+    {
+        "contents": "TrueType Font",
+        "file_extension": ".ttf"
+    },
+    {
+        "contents": "Windows Cabinet File",
+        "file_extension": ".cab"
+    },
+    {
+        "contents": "Windows Control Panel Item",
+        "file_extension": ".cpl"
+    },
+    {
+        "contents": "Windows Cursor",
+        "file_extension": ".cur"
+    },
+    {
+        "contents": "Windows 8 Desktop Theme Pack File",
+        "file_extension": ".deskthemepack"
+    },
+    {
+        "contents": "Dynamic Link Library",
+        "file_extension": ".dll"
+    },
+    {
+        "contents": "Windows Memory Dump",
+        "file_extension": ".dmp"
+    },
+    {
+        "contents": "Device Driver",
+        "file_extension": ".drv"
+    },
+    {
+        "contents": "Mac OS X Icon Resource File",
+        "file_extension": ".icns"
+    },
+    {
+        "contents": "Icon File",
+        "file_extension": ".ico"
+    },
+    {
+        "contents": "Windows File Shortcut",
+        "file_extension": ".lnk"
+    },
+    {
+        "contents": "Windows System File",
+        "file_extension": ".sys"
+    },
+    {
+        "contents": "Configuration File",
+        "file_extension": ".cfg"
+    },
+    {
+        "contents": "Windows Initialization File",
+        "file_extension": ".ini"
+    },
+    {
+        "contents": "Outlook Profile File",
+        "file_extension": ".prf"
+    },
+    {
+        "contents": "BinHex 4.0 Encoded File",
+        "file_extension": ".hqx"
+    },
+    {
+        "contents": "Multi-Purpose Internet Mail Message File",
+        "file_extension": ".mim"
+    },
+    {
+        "contents": "Uuencoded File",
+        "file_extension": ".uue"
+    },
+    {
+        "contents": "7-Zip Compressed File",
+        "file_extension": ".7z"
+    },
+    {
+        "contents": "Comic Book RAR Archive",
+        "file_extension": ".cbr"
+    },
+    {
+        "contents": "Debian Software Package",
+        "file_extension": ".deb"
+    },
+    {
+        "contents": "Gnu Zipped Archive",
+        "file_extension": ".gz"
+    },
+    {
+        "contents": "Mac OS X Installer Package",
+        "file_extension": ".pkg"
+    },
+    {
+        "contents": "WinRAR Compressed Archive",
+        "file_extension": ".rar"
+    },
+    {
+        "contents": "Red Hat Package Manager File",
+        "file_extension": ".rpm"
+    },
+    {
+        "contents": "StuffIt X Archive",
+        "file_extension": ".sitx"
+    },
+    {
+        "contents": "Compressed Tarball File",
+        "file_extension": ".tar.gz"
+    },
+    {
+        "contents": "Zipped File",
+        "file_extension": ".zip"
+    },
+    {
+        "contents": "Extended Zip File",
+        "file_extension": ".zipx"
+    },
+    {
+        "contents": "Binary Disc Image",
+        "file_extension": ".bin"
+    },
+    {
+        "contents": "Cue Sheet File",
+        "file_extension": ".cue"
+    },
+    {
+        "contents": "Mac OS X Disk Image",
+        "file_extension": ".dmg"
+    },
+    {
+        "contents": "Disc Image File",
+        "file_extension": ".iso"
+    },
+    {
+        "contents": "Media Disc Image File",
+        "file_extension": ".mdf"
+    },
+    {
+        "contents": "Toast Disc Image",
+        "file_extension": ".toast"
+    },
+    {
+        "contents": "Virtual CD",
+        "file_extension": ".vcd"
+    },
+    {
+        "contents": "C/C++ Source Code File",
+        "file_extension": ".c"
+    },
+    {
+        "contents": "Java Class File",
+        "file_extension": ".class"
+    },
+    {
+        "contents": "C++ Source Code File",
+        "file_extension": ".cpp"
+    },
+    {
+        "contents": "Visual C# Source Code File",
+        "file_extension": ".cs"
+    },
+    {
+        "contents": "Document Type Definition File",
+        "file_extension": ".dtd"
+    },
+    {
+        "contents": "Adobe Flash Animation",
+        "file_extension": ".fla"
+    },
+    {
+        "contents": "C/C++/Objective-C Header File",
+        "file_extension": ".h"
+    },
+    {
+        "contents": "Java Source Code File",
+        "file_extension": ".java"
+    },
+    {
+        "contents": "Lua Source File",
+        "file_extension": ".lua"
+    },
+    {
+        "contents": "Objective-C Implementation File",
+        "file_extension": ".m"
+    },
+    {
+        "contents": "Perl Script",
+        "file_extension": ".pl"
+    },
+    {
+        "contents": "Python Script",
+        "file_extension": ".py"
+    },
+    {
+        "contents": "Bash Shell Script",
+        "file_extension": ".sh"
+    },
+    {
+        "contents": "Visual Studio Solution File",
+        "file_extension": ".sln"
+    },
+    {
+        "contents": "Swift Source Code File",
+        "file_extension": ".swift"
+    },
+    {
+        "contents": "Visual C++ Project",
+        "file_extension": ".vcxproj"
+    },
+    {
+        "contents": "Xcode Project",
+        "file_extension": ".xcodeproj"
+    },
+    {
+        "contents": "Backup File",
+        "file_extension": ".bak"
+    },
+    {
+        "contents": "Temporary File",
+        "file_extension": ".tmp"
+    },
+    {
+        "contents": "Chrome Partially Downloaded File",
+        "file_extension": ".crdownload"
+    },
+    {
+        "contents": "Calendar File",
+        "file_extension": ".ics"
+    },
+    {
+        "contents": "Windows Installer Package",
+        "file_extension": ".msi"
+    },
+    {
+        "contents": "Partially Downloaded File",
+        "file_extension": ".part"
+    },
+    {
+        "contents": "BitTorrent File",
+        "file_extension": ".torrent"
+    }
+]
