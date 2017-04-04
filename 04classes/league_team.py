@@ -7,7 +7,10 @@
 # AMJ
 # 2017-04-01
 
-class LeagueTable:
+from functools import total_ordering
+
+@total_ordering
+class TeamRecord:
 
     def __init__ (self, name):
 
@@ -63,6 +66,12 @@ class LeagueTable:
         else:
             self.__games_drawn += 1
 
+    def __lt__ (self, other):
+        return self.league_points < other.league_points
+
+    def __eq__ (self, other):
+        return self.league_points == other.league_points
+
     def __str__ (self):
         return "{:20s} {:2d} {:2d} {:2d} {:2d} {:3d} {:3d} {:-3d} {:2d}" \
             .format (self.name,
@@ -72,8 +81,8 @@ class LeagueTable:
 
 if __name__ == '__main__':
 
-    team_one = LeagueTable ('Huddersfield')
-    team_two = LeagueTable ('Wigan')
+    team_one = TeamRecord ('Huddersfield')
+    team_two = TeamRecord ('Wigan')
 
     team_one.play_game (12, 8)
     team_two.play_game (10, 24)
