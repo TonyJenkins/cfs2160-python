@@ -11,5 +11,5 @@ from bank_account import BankAccount
 
 class CurrentAccount (BankAccount):
 
-    def __init__ (self, account_number, account_holder, has_overdraft):
-        BankAccount.__init__ (self, account_number, account_holder, has_overdraft)
+    def __init__ (self, account_holder, has_overdraft):
+        BankAccount.__init__ (self, account_holder, has_overdraft)

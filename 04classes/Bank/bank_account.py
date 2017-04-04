@@ -7,14 +7,17 @@
 # AMJ
 # 2017-04-01
 
+from random import randint
+
 class BankAccount:
 
-    def __init__ (self, account_number, account_holder, has_overdraft):
+    def __init__ (self, account_holder, has_overdraft):
         self.account_number = account_number
         self.account_holder = account_holder
         self.has_overdraft = has_overdraft
 
         self.__balance = 0.0
+        self.is_active = True
 
     @property
     def balance (self):
@@ -33,6 +36,19 @@ class BankAccount:
                 self.__balance -= withdraw_amount
         except TypeError:
             pass
+
+    def deactivate (self):
+        self.active = False
+
+    def activate (self):
+        self.active = True
+
+    def generate_account_number (self):
+        s = ''
+        for i in range (9):
+            s += str (randint (10))
+
+        return s
 
     def __str__ (self):
         return "Account: {:} Holder: {:} Balance: {:}".format (self.account_number, self.account_holder, self.balance)
