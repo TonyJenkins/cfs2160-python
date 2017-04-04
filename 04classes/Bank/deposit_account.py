@@ -12,7 +12,7 @@ from bank_account import BankAccount
 class DepositAccount (BankAccount):
 
     def __init__ (self, account_holder, interest_rate):
-        BankAccount.__init__ (self, account_number, account_holder, False)
+        BankAccount.__init__ (self, account_holder, False)
         self.interest_rate = interest_rate
 
     def add_interest (self):

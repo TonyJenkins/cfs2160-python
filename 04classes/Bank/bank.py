@@ -41,9 +41,11 @@ if __name__ == '__main__':
 
     b = Bank ()
 
-    dep_1 = DepositAccount ('A12345', 'John Smith', 0.15)
-    dep_2 = DepositAccount ('C12345', 'Jane Smith', 0.20)
-    cur_1 = CurrentAccount ('B23456', 'Fred Jones', True)
+    dep_1 = DepositAccount ('John Smith', 0.15)
+    dep_2 = DepositAccount ('Jane Smith', 0.20)
+    cur_1 = CurrentAccount ('Fred Jones', True)
+
+    print (dep_1)
 
     dep_1.deposit (100)
     dep_2.deposit (130)

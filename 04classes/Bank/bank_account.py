@@ -12,7 +12,7 @@ from random import randint
 class BankAccount:
 
     def __init__ (self, account_holder, has_overdraft):
-        self.account_number = account_number
+        self.account_number = self.generate_account_number ()
         self.account_holder = account_holder
         self.has_overdraft = has_overdraft
 
@@ -38,15 +38,15 @@ class BankAccount:
             pass
 
     def deactivate (self):
-        self.active = False
+        self.is_active = False
 
     def activate (self):
-        self.active = True
+        self.is_active = True
 
     def generate_account_number (self):
         s = ''
         for i in range (9):
-            s += str (randint (10))
+            s += str (randint (0, 9))
 
         return s
 
