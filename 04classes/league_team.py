@@ -84,8 +84,18 @@ if __name__ == '__main__':
     team_one = TeamRecord ('Huddersfield')
     team_two = TeamRecord ('Wigan')
 
-    team_one.play_game (12, 8)
-    team_two.play_game (10, 24)
+    team_one.play_game (10, 24)
+    team_two.play_game (24, 2)
 
-    print (team_one)
-    print (team_two)
+    league = []
+    league.append (team_one)
+    league.append (team_two)
+
+    for team in league:
+        print (team)
+
+    print ()
+    league.sort (reverse = True)
+
+    for team in league:
+        print (team)
