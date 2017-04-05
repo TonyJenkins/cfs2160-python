@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# deposit_amount_account.py
+# current_account.py
 #
 # Simple Bank Account class example: The Current Account.
 #
