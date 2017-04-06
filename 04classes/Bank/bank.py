@@ -31,7 +31,7 @@ class Bank:
 
         self.accounts.append (account)
 
-    def interest (self):
+    def interest_run (self):
 
         for a in self.accounts:
             try:
@@ -63,6 +63,6 @@ if __name__ == '__main__':
     b.add_account (kid_1)
 
     print (b.assets)
-    b.interest ()
+    b.interest_run ()
     print (b.assets)
 
